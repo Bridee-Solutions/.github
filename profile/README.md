@@ -7,7 +7,7 @@ O desenvolvimento foi dividido em dois ciclos:
 - 📱 **Aplicativo Mobile** – desenvolvido no 4º semestre
 - 💻 **Aplicação Web** – desenvolvida no 3º semestre
 
-Este projeto foi realizado na disciplina de **Projeto e Inovação** na [SPTech School (antiga Bandtec)](https://www.sptech.school/), com duração total de um ano.
+Este projeto foi realizado na disciplina de **Projeto e Inovação** na [SPTech School (antiga Bandtec)](https://www.sptech.school/), com duração total de um ano (2024/02 - 2025/01).
 
 ---
 ## 🎯 Objetivo do Projeto
