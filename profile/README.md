@@ -65,7 +65,6 @@ O projeto está dividido em múltiplos repositórios, cada um com responsabilida
 | `bridee.bucket.lambda` | Java | Funções Lambda para upload e manipulação de arquivos |
 | `bridee.aws.infra` | HCL | Infraestrutura em AWS via Terraform |
 | `bridee.api.gateway` | Dockerfile |  Orquestração de serviços com API Gateway |
-| `bridee.pipeline-CI-CD` | Dockerfile |  Pipelines de CI/CD |
 | `bridee.wedding.job` | Java |  Jobs automáticos para notificações e agendamentos |
 | `bridee.bucket.function` | Java | Funções auxiliares para armazenamento |
 | `bridee.azure.infra` | HCL |  Infraestrutura em Azure via Terraform |
